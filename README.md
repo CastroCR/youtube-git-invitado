@@ -1,1 +1,1 @@
-# Repositorio nuevo con Main.
+# Repositorio nuevo con rama Main.
