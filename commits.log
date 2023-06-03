@@ -1,0 +1,116 @@
+commit 3a0084ca75cc0da374cd59c4e9ca36ea0cea80f6
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 03:22:50 2023 -0500
+
+    Agregando 2 parrafos
+
+commit 15b5522b29a2e56dd8c6a2ff6aa0d7243c381ba1
+Merge: c7c6d5a 2f0e12b
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 03:17:27 2023 -0500
+
+    conflicto en la lista de estaciones
+
+commit c7c6d5ab2cda977e453d54a76f6bdf092bbf6cf5
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:33:20 2023 -0500
+
+    Agregando estaciones con fecha
+
+commit 2f0e12bec3a8be28d8e969433710d90df66f0fc1
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:33:20 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 658fb79726b25834aca856ab09edc3fcc7eddfe9
+Merge: 3073f49 03f1ac8
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:26:38 2023 -0500
+
+    Resolviendo conflicto merge main/html en el Doc index.html
+
+commit 03f1ac848db3f1a32363a01835854a101c062a8a
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:20:08 2023 -0500
+
+    Agregando index.js a html
+
+commit 3073f4953bf1a8ee0e05727127df7f0442cee66e
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:18:13 2023 -0500
+
+    Agrendando style al index.html
+
+commit 318563c171c2662fb159b001ead204dfa6bd3a50
+Merge: 94eb11d 35946f2
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:07:00 2023 -0500
+
+    Merge branch 'js'
+
+commit 35946f227370caa08b987b3f60ac93aa13496ed9
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 02:01:41 2023 -0500
+
+    Creando index js
+
+commit 94eb11da243021e5bc5a1b5bf43f8961d1d63bd0
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:55:05 2023 -0500
+
+    Creando Style css
+
+commit 52aafafc7a8764b26ffab14ff1d6b1e4f8bd1911
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:50:44 2023 -0500
+
+    Creando archivo index.html
+
+commit d26ba3bb1f3f41f208ca97774b6c982ff290f684
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:34:17 2023 -0500
+
+    Ignorando archivos .exe
+
+commit e46eb54f0cdb07ce817bbf7ffc56eec968d0067c
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:32:31 2023 -0500
+
+    Creando gitignore
+
+commit 2e63e22fd84cc4b5b96b0c037cf4347eeb7f0091
+Author: CastroCRS <106775437+CastroCRS@users.noreply.github.com>
+Date:   Sat Jun 3 01:22:41 2023 -0500
+
+    Creando licencia de repositorio
+
+commit b005473907f13c02526a0347be22f5c2661416d4
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:21:35 2023 -0500
+
+    Borre license
+
+commit 0706dd186bd1e944332a231f45aa55b77a36bd9c
+Author: CastroCRS <106775437+CastroCRS@users.noreply.github.com>
+Date:   Sat Jun 3 01:19:57 2023 -0500
+
+    Creando licencia de repositorio
+
+commit 5a761765816d4adfaf30b27b91531fe8b0d223b7
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:18:22 2023 -0500
+
+    Actualizacion de README
+
+commit 4d025f9413030a2c025e75c3c7a888f39bd07161
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:17:22 2023 -0500
+
+    Segundo Commint
+
+commit 6baeae3b92b3fb415ff64ff78fb271facab97d6c
+Author: CastroCRS <ccastrosalaverry@gmail.com>
+Date:   Sat Jun 3 01:12:32 2023 -0500
+
+    Primer commit
